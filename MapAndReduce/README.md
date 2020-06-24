@@ -30,19 +30,7 @@ hadoop jar /usr/lib/hadoop-0.20-mapreduce/contrib/streaming/hadoop-streaming-2.6
 ```bash
 hdfs dfs -cat output1/part*
 ```
-#### Output
-***
-##### Executing the JAR commands
-![dp1](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MapAndReduce/New%20Doc%202019-04-04%2021.29.15_4.jpg)
-***
-***
-##### First Mapreduce-1 (Total Sales Based on Platform)
-![dp1](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MapAndReduce/New%20Doc%202019-04-04%2021.29.15_5.jpg)
-***
-***
-##### First Mapreduce-2 (Total Sales Based on Genre)
-![dp1](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MapAndReduce/New%20Doc%202019-04-04%2021.29.15_7.jpg)
-***
+
 
 
 
