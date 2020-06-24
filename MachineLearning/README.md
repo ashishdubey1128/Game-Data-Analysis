@@ -1,6 +1,6 @@
 ## Machine Learning Section
 
-We have used multiple machine learning algorithms to predict/classify certain metrics of the data.
+I have used multiple machine learning algorithms to predict/classify certain metrics of the data.
 
 ### Algorithms we have used
 - K-Nearest Neighbour Algorithm
