@@ -1,6 +1,6 @@
 ## Map and Reduce Section
 
-There are 2 types of Map and Reduce Programs which we have made.
+There are 2 types of Map and Reduce Programs which I have made.
 
 - Calculation of overall rating of different games based on platform.
 - Calculation of overall rating of different games based on genre.
